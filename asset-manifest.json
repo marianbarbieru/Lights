@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lights/static/css/main.2cad7a50.chunk.css",
+    "main.js": "/Lights/static/js/main.9c43129c.chunk.js",
+    "main.js.map": "/Lights/static/js/main.9c43129c.chunk.js.map",
+    "runtime-main.js": "/Lights/static/js/runtime-main.d2dcf2b3.js",
+    "runtime-main.js.map": "/Lights/static/js/runtime-main.d2dcf2b3.js.map",
+    "static/js/2.f5281609.chunk.js": "/Lights/static/js/2.f5281609.chunk.js",
+    "static/js/2.f5281609.chunk.js.map": "/Lights/static/js/2.f5281609.chunk.js.map",
+    "index.html": "/Lights/index.html",
+    "precache-manifest.baa95daaeb67d5bf170fd7c05c60244a.js": "/Lights/precache-manifest.baa95daaeb67d5bf170fd7c05c60244a.js",
+    "service-worker.js": "/Lights/service-worker.js",
+    "static/css/main.2cad7a50.chunk.css.map": "/Lights/static/css/main.2cad7a50.chunk.css.map",
+    "static/js/2.f5281609.chunk.js.LICENSE.txt": "/Lights/static/js/2.f5281609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2dcf2b3.js",
+    "static/js/2.f5281609.chunk.js",
+    "static/css/main.2cad7a50.chunk.css",
+    "static/js/main.9c43129c.chunk.js"
+  ]
+}
